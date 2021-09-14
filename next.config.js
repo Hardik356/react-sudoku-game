@@ -1,5 +1,7 @@
 const SWPrecacheWebpackPlugin = require('sw-precache-webpack-plugin');
 
+
+
 module.exports = {
   webpack: (config, {
     // eslint-disable-next-line no-unused-vars
